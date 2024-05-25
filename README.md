@@ -21,7 +21,10 @@
 準備中です。
 
 # 使用技術
-準備中です。
+Next.js
+Express.js
+PostgreSQL
+Docker
 
 # 使い方
 準備中です。
