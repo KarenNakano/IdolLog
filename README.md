@@ -21,10 +21,10 @@
 準備中です。
 
 # 使用技術
-Next.js
-Express.js
-PostgreSQL
-Docker
+Next.js<br>
+Express.js<br>
+PostgreSQL<br>
+Docker<br>
 
 # 使い方
 準備中です。
