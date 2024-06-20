@@ -21,6 +21,7 @@
 準備中です。
 
 # 使用技術
+TypeScript<br>
 Next.js<br>
 Express.js<br>
 PostgreSQL<br>
